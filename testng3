@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <parameter name="email" value="test@gmail.com"/>
+  <parameter name="password" value="t#12"/>
+    <classes>
+      <class name="Module_7.Question18"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test1">
+  <parameter name="email" value="test@gmail.com"/>
+  <parameter name="password" value="t#12"/>
+    <classes>
+      <class name="Module_7.Question18"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
